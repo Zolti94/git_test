@@ -1,0 +1,11 @@
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore editor settings
+.vscode/
+.idea/
+
+# Ignore Python stuff (if you ever use Python)
+__pycache__/
+*.pyc
